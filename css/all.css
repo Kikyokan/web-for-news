@@ -1,0 +1,23 @@
+.title{
+	background-image: url(../img/title.png);
+	background-repeat: round;
+	text-align: center;
+	height: 300px;
+}
+.menu{
+	background-color: aliceblue;
+}
+.menu_b{
+	font-size: xx-large;
+	font-family: fangsong;
+}
+.menu_th{
+	width: 100px;
+	height: 100px;
+	font-family: fangsong;
+	font-size: 20px;
+}
+.menu_a{
+	font-family: fangsong;
+	font-size: 20px;
+}
