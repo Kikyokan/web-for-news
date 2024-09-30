@@ -1,31 +1,30 @@
 .title{
-	background-image: url(../img/title.png);
-	background-color: #dfdbd8;
+	background-color: aliceblue;
 	background-repeat: no-repeat;
 	background-position: top;
-	padding-top: 250px;
+	text-align: center;
 }
 .menu{
 	font-family: fangsong;
 }
-ul{
+ul.menu{
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
 }
-li {
+li.menu {
     float: left;
 }
-li a {
+a.menu{
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
-li a:hover {
+a.menu:hover {
     background-color: #111;
 }
 .text{
